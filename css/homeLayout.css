@@ -29,6 +29,7 @@ img {
 	width: 100%;
 }
 
+/*
 img:hover{
   color: #424242; 
   -webkit-transition: all .3s ease-in;
@@ -39,9 +40,10 @@ img:hover{
   opacity: 0.9;
   transform: scale(1.15);
   -ms-transform: scale(1.15); /* IE 9 */
-  -webkit-transform: scale(1.15); /*Safari and Chrome*/ 
+  /*-webkit-transform: scale(1.15); /*Safari and Chrome
 
 }
+*/
 
 
 
